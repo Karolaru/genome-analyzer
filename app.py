@@ -3,4 +3,4 @@ def greeting(name):
 
 
 if __name__ == "__main__":
-    print(greeting("User"))
+    print(greeting("User1"))
